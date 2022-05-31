@@ -1,0 +1,35 @@
+
+
+.conteiner{
+    background-color: #6C63FF;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 65px;
+    padding: 0 7%;
+}
+
+.conteiner div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteiner div h1{
+    padding-left: 10px;
+}
+
+.conteiner ul{
+    list-style: none;
+    display: flex;
+}
+
+.conteiner ul li{
+    padding: 0 20px;
+}
+
+.conteiner ul li a{
+    text-decoration: none;
+    color: #fff;
+}

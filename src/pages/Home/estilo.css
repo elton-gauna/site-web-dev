@@ -1,0 +1,36 @@
+.conteiner-home{
+        height: 90vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+
+.conteiner-home img{
+    width: 30%;
+}
+
+.conteiner-home div{
+    max-width: 500px;
+    padding-left: 10px;
+}
+
+.conteiner-home div h1{
+    padding: 20px 0;
+}
+
+.conteiner-home div p{
+    padding: 20px 0;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.conteiner-home div button{
+    background-color: #6C63FF;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    width: 150px;
+    height: 35px;
+    cursor: pointer;
+}
